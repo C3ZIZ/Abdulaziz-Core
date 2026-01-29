@@ -36,7 +36,11 @@
 لغة البرمجة اللي بتحرك كل شيء في الويب.
 
 - **Elzero Web School:**
-  - [شرح جافاسكريبت الممتع](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+  - [شرح جافاسكريبت](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+
+- **Yehia Tech
+:**
+  - [شرح جافاسكريبت من يحيى تك](https://www.youtube.com/watch?v=2EAV2cB3FWY&list=PL8q8h6vqfkSXcfaCL_nqsbLkDnodHpBG8)
 
 ---
 
