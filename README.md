@@ -32,15 +32,18 @@
 
 ---
 
-## 3. JavaScript Fundamentals
+## 3. JavaScript Fundamentals !!!
 لغة البرمجة اللي بتحرك كل شيء في الويب.
+
 
 - **Elzero Web School:**
   - [شرح جافاسكريبت](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
-- **Yehia Tech
-:**
+- **Yehia Tech:**
   - [شرح جافاسكريبت من يحيى تك](https://www.youtube.com/watch?v=2EAV2cB3FWY&list=PL8q8h6vqfkSXcfaCL_nqsbLkDnodHpBG8)
+
+- **FreeCodeCamp!!!:**
+  - [هذا مرة رهيب يدخل كمان في هياكل البيانات والخوارزميات - داخل في شرح يحيى تك](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ---
 
