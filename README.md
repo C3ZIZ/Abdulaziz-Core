@@ -43,8 +43,8 @@
   - [شرح جافاسكريبت من يحيى تك](https://www.youtube.com/watch?v=2EAV2cB3FWY&list=PL8q8h6vqfkSXcfaCL_nqsbLkDnodHpBG8)
 
 - **FreeCodeCamp!!!:**
-  - [هذا الشرح الأحدث](https://www.freecodecamp.org/learn/javascript-v9/)
-  - [هنا يدخل في هياكل البيانات والخوارزميات - داخل في شرح يحيى تك](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+  - [هذا الشرح الأحدث - هنا يدخل في هياكل البيانات والخوارزميات أجدد شي شامل](https://www.freecodecamp.org/learn/javascript-v9/)
+  - [هنا تأسيس برضو وهو اللي داخل في شرح يحيى تك (نسخة أقدم شوي)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ---
 
