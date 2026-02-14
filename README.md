@@ -111,6 +111,10 @@
   - [Flutter Course](https://www.youtube.com/watch?v=rpT7vDbNM3M&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a)
 - **وائل أبو حمزة (الخيار الثاني):**
   - [Flutter Course](https://www.youtube.com/watch?v=6bSP4vazmyw&list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9)
+- **عمار الخطيب (الخيار الثالث):**
+  - [Flutter Course](https://youtu.be/lRercKJaAes?si=eD8PdmdlnBAP6h3-)
+- **Flutter documentation (الخيار الرابع):**
+  - [Flutter Course](https://docs.flutter.dev)
 
 ---
 
